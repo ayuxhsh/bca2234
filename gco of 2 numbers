@@ -1,0 +1,5 @@
+import math
+a=int(input("enter no1:"))
+b=int(input(enter no2 :"))
+
+print("the gco of ",a," and",b," is="math gcd (a,b))
