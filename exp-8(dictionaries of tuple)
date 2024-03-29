@@ -1,0 +1,5 @@
+sem={'bca':("bcaa","bcab","bcac"),
+    'mca':("mcaa","mcab","mcac")}
+
+    print(sem)
+    
