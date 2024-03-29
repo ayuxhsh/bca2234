@@ -1,0 +1,10 @@
+# using sort function 
+
+lis=[12,34,9,5,77]
+lis.sort()
+print("the largest number is present in the list is ,lis[-1])
+
+#math library
+
+lis=[12,99,89,40,20]
+print ("the largest numbers=",max(lis))
