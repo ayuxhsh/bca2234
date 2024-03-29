@@ -1,0 +1,15 @@
+# oddd even
+
+if a%2 ==:
+print("even")
+else: 
+print("odd")
+
+
+# prime no.
+
+b= int(input("enter number:"))
+if b%b==1 and b%1==0:
+print("no. is prime")
+else:
+print("not prime")
