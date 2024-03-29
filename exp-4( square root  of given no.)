@@ -1,0 +1,12 @@
+# using math library 
+
+import math
+# return the square root 
+print(math sqrt (9))
+print(math sqrt (25))
+print (math sqrt(16))
+
+# using exponential operator
+
+a=int(input("enter no"))
+ptint(a**0.5)
